@@ -316,6 +316,8 @@ body {
         padding-right: 12px;
     }
     .img-item{
+        position: relative;
+        top: -86px;
         display: block !important;
     }
     a{
